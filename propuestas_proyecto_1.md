@@ -3,7 +3,7 @@
 
 Este documento presenta **10 propuestas detalladas de proyecto** que cumplen con los siguientes criterios: alineados con el sílabus del curso, implementables en laboratorio casero, de bajo costo, novedosos pero accesibles, y respaldados por **múltiples fuentes académicas verificadas** (papers en revistas indexadas).
 
-Cada propuesta incluye: descripción extendida, fundamento teórico con ecuaciones clave, lista detallada de materiales con costos, procedimiento experimental paso a paso, resultados esperados, aspectos novedosos, y resumen detallado de cada fuente académica citada.
+Cada propuesta incluye: descripción extendida, fundamento teórico con ecuaciones clave, lista detallada de materiales con costos aproximados (solo tomar los costos como referencia, ya que puede ser más o menoss), procedimiento experimental paso a paso, resultados esperados, aspectos novedosos, y resumen detallado de cada fuente académica citada.
 
 ---
 
