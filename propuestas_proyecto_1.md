@@ -1,5 +1,5 @@
-# 10 Propuestas de Proyecto Final — Versión Extendida
-## Curso: Fundamentos de Electromagnetismo (100000F2I1) — UTP
+# 10 Propuestas de Proyecto Final
+## Curso: Fundamentos de Electromagnetismo — UTP
 
 Este documento presenta **10 propuestas detalladas de proyecto** que cumplen con los siguientes criterios: alineados con el sílabus del curso, implementables en laboratorio casero, de bajo costo, novedosos pero accesibles, y respaldados por **múltiples fuentes académicas verificadas** (papers en revistas indexadas).
 
