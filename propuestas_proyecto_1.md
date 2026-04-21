@@ -910,7 +910,7 @@ Para f = 10 cm y λ = 550 nm (luz verde), d_opt ≈ 0.47 mm.
 
 ## 📊 TABLA COMPARATIVA DE LOS 10 PROYECTOS
 
-| # | Proyecto | Unidad | Tema principal | Costo | Dificultad | Novedad | Mi rec. |
+| # | Proyecto | Unidad | Tema principal | Costo | Dificultad | Novedad | Mi recomendación |
 |---|---------|--------|----------------|-------|------------|---------|---------|
 | 1 | Capacitor casero + dieléctrico | Electricidad | Capacitancia, ε_r | S/. 20–30 | Baja | Media | — |
 | 2 | Circuito RC con smartphone | Electricidad | Circuitos RC | S/. 15–25 | Media | **★ Alta** | ⭐ |
