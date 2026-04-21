@@ -813,7 +813,9 @@ donde dᵢ es la distancia pinhole-pantalla y dₒ es la distancia objeto-pinhol
 
 **Número f (f-number)**:
 
-$$f_\# = \frac{f}{d}$$
+$$N = \frac{f}{d}$$
+
+donde N es el f-number, f la distancia focal y d el diámetro del pinhole.
 
 donde f es la distancia focal (longitud de la caja) y d el diámetro del pinhole.
 
@@ -925,7 +927,6 @@ Para f = 10 cm y λ = 550 nm (luz verde), d_opt ≈ 0.47 mm.
 
 ## 🎯 MIS RECOMENDACIONES PERSONALES
 
-Si buscas **mejor calificación con menor complejidad**, mis 3 favoritos son:
 
 ### 🥇 PROYECTO 2 — Circuito RC con smartphone
 - **Por qué**: Paper del 2023 (muy reciente), demuestra uso innovador del smartphone como instrumento científico, permite obtener muchos datos cuantitativos (curvas exponenciales con R² > 0.99), es replicable con materiales muy baratos, y cubre uno de los temas más importantes del curso (circuitos RC).
@@ -936,15 +937,3 @@ Si buscas **mejor calificación con menor complejidad**, mis 3 favoritos son:
 ### 🥉 PROYECTO 6 — Imán de neodimio en tubo de cobre
 - **Por qué**: Visualmente impactante (el imán casi flota), tiene fuerte fundamento teórico (Faraday + Lenz + corrientes de Eddy), permite análisis cuantitativo con Tracker, y tiene múltiples variaciones para profundizar (tubos con ranuras, distintos metales).
 
----
-
-## 📝 PRÓXIMOS PASOS
-
-Cuando escojas un proyecto, puedo ayudarte a:
-1. **Desarrollar el marco teórico completo** con todas las ecuaciones necesarias.
-2. **Diseñar la metodología experimental detallada** (diagramas, procedimiento paso a paso).
-3. **Elaborar el informe siguiendo el modelo que adjuntaste** (resumen, introducción, marco teórico, metodología, resultados, conclusiones, referencias IEEE).
-4. **Diseñar las figuras y tablas** para los resultados.
-5. **Revisar y corregir** versiones previas del informe.
-
-Solo dime cuál eliges y avancemos con el detalle completo.
